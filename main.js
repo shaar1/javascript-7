@@ -1,7 +1,9 @@
  /*global console, alert*/
 
  /* 
- Boolean
+
+ Boolean: true, False
+ 
  */
 
  /*
@@ -27,7 +29,8 @@
   document.getElementById("test").innerHTML = mainPrice;
   */
 
- var
+ /*
+  var
      mainPrice = 450,
 
      hasDiscount = false; // False Mean has no Discount
@@ -42,3 +45,4 @@
  }
 
  document.getElementById("test").innerHTML = mainPrice;
+   */
