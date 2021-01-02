@@ -18,15 +18,48 @@
 
  */
 
+
+
+/*
+
+var myAge = "32" + "10";
+document.getElementById("test").innerHTML = myAge
+
+*/
+
+
+/*
+
+var myAge = 32 + 10;
+ document.getElementById("test").innerHTML = myAge;
+
+*/
+
+
+/*
+
+var myAge = "32" + 10;
+ document.getElementById("test").innerHTML = myAge;
+
+*/
+
+
+/*
+
  var myAge = 32;
  document.getElementById("test").innerHTML = myAge;
 
+*/
+
 /*
+
 var myName = 'Abdallah Al shaar "Abod"'
 document.getElementById("test").innerHTML = myName
+
  */
 
 /*
+
 var myName = "Abdallah 'Abod'";
 
 document.getElementById("test").innerHTML = myName;
@@ -38,13 +71,16 @@ document.getElementById("test").innerHTML = myName;
 var myName = "Abdallah Shaar ";
 
 document.getElementById("test").innerHTML = myName;
+
 */
 
 
 /* 
+
 var myName = "Abdallah Shaar 'Abod'";
 
 document.getElementById("test").innerHTML = myName;
+
 */
 
 
