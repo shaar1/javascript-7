@@ -4,26 +4,68 @@
 
  Boolean: true, False
  Array: ["facebook.com", "youtube.come", "google.com"]
+ Object: {firstName: "Osama", lastName: "Mohamed"}
+
  */
 
  /*
+
  Check If The Produt Has Discount Or No:
  true = Yes has Discount
  false = No It Has No Discount
+
  */
+
 /*
-var socialWebsites = ["facebook.com", "youtube.come", "google.com"];
- document.getElementById("test").innerHTML = socialWebsites[2];
+
+ var myInfo = {firstName: "Abdallah", lastName: "Alshaar"}
+
+document.getElementById("test").innerHTML = myInfo.lastName;
  */
-/*
-var socialWebsites = ["facebook.com", "youtube.come", "google.com"];
- document.getElementById("test").innerHTML = socialWebsites[1];
-*/
-/*
- var socialWebsites = ["facebook.com", "youtube.come", "google.com"];
- document.getElementById("test").innerHTML = socialWebsites[0];
- */
+
  /*
+ var myInfo = {firstName: "Abdallah", lastName: "Alshaar"}
+
+document.getElementById("test").innerHTML = myInfo.firstName;
+*/
+ /*
+var myInfo = {firstName: "Abdallah", lastName: "Alshaar"}
+
+document.getElementById("test").innerHTML = myInfo.firstName;
+*/
+
+ /*
+var myInfo = {firstName: "Abdallah", lastName: "Alshaar"}
+document.getElementById("test").innerHTML = myInfo;
+*/
+
+
+/*
+
+var socialWebsites = ["facebook.com", "youtube.come", "google.com"];
+
+ document.getElementById("test").innerHTML = socialWebsites[2];
+
+ */
+
+/*
+
+var socialWebsites = ["facebook.com", "youtube.come", "google.com"];
+
+ document.getElementById("test").innerHTML = socialWebsites[1];
+
+*/
+
+/*
+
+ var socialWebsites = ["facebook.com", "youtube.come", "google.com"];
+
+ document.getElementById("test").innerHTML = socialWebsites[0];
+
+ */
+
+ /*
+
   var
       mainPrice = 450,
 
@@ -38,9 +80,11 @@ var socialWebsites = ["facebook.com", "youtube.come", "google.com"];
       var mainPrice = 450;
   }
   document.getElementById("test").innerHTML = mainPrice;
+
   */
 
  /*
+
   var
      mainPrice = 450,
 
