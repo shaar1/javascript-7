@@ -17,10 +17,31 @@
 
  */
 
-var myName = "Abdallah Shaar 'Abod'";
+/*
+var myName = 'Abdallah Al shaar "Abod"'
+document.getElementById("test").innerHTML = myName
+ */
+
+/*
+var myName = "Abdallah 'Abod'";
 
 document.getElementById("test").innerHTML = myName;
 
+ */
+
+/*
+
+var myName = "Abdallah Shaar ";
+
+document.getElementById("test").innerHTML = myName;
+*/
+
+
+/* 
+var myName = "Abdallah Shaar 'Abod'";
+
+document.getElementById("test").innerHTML = myName;
+*/
 
 
 /* 
