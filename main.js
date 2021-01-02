@@ -5,7 +5,7 @@
  Boolean: true, False
  Array: ["facebook.com", "youtube.come", "google.com"]
  Object: {firstName: "Osama", lastName: "Mohamed"}
- string: "JavaScript"
+ string: "JavaScript" ''
 
  */
 
@@ -17,9 +17,18 @@
 
  */
 
+var myName = "Abdallah Shaar 'Abod'";
+
+document.getElementById("test").innerHTML = myName;
+
+
+
+/* 
+
 var myName = "Abdallah";
 document.getElementById("test").innerHTML = myName;
 
+*/
 
 
 
