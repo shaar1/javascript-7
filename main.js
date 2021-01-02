@@ -3,7 +3,7 @@
  /* 
 
  Boolean: true, False
- 
+ Array: ["facebook.com", "youtube.come", "google.com"]
  */
 
  /*
@@ -11,7 +11,18 @@
  true = Yes has Discount
  false = No It Has No Discount
  */
-
+/*
+var socialWebsites = ["facebook.com", "youtube.come", "google.com"];
+ document.getElementById("test").innerHTML = socialWebsites[2];
+ */
+/*
+var socialWebsites = ["facebook.com", "youtube.come", "google.com"];
+ document.getElementById("test").innerHTML = socialWebsites[1];
+*/
+/*
+ var socialWebsites = ["facebook.com", "youtube.come", "google.com"];
+ document.getElementById("test").innerHTML = socialWebsites[0];
+ */
  /*
   var
       mainPrice = 450,
