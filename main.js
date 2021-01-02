@@ -6,6 +6,7 @@
  Array: ["facebook.com", "youtube.come", "google.com"]
  Object: {firstName: "Osama", lastName: "Mohamed"}
  string: "JavaScript" ''
+ Number:   ""يكتب من دون
 
  */
 
@@ -16,6 +17,9 @@
  false = No It Has No Discount
 
  */
+
+ var myAge = 32;
+ document.getElementById("test").innerHTML = myAge;
 
 /*
 var myName = 'Abdallah Al shaar "Abod"'
